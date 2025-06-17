@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>semantic elements</title>
+</head>
+
+<body>
+    <header>
+
+        <nav>
+            <ul>
+                <li ><a href="#section1">account</a></li>
+                <li><a href="#section2">deer</a></li>
+            </ul>
+        </nav>
+    </header> 
+    <hr>
+    <main>
+        <section id="section1">
+            <h1>section 1</h1>
+            <figure>
+                <img src="../media/image1.jpg" alt="image cant load" width="300">
+                <figcaption>a deer</figcaption>
+            </figure>
+        </section>
+        <hr>
+        <section id="section2">
+            <h1>section 2</h1>
+            <article>
+                this is a deer.it has horns.its picture was taken in a forest
+            </article>
+
+        </section>
+        <br><br><br><br><br> <br><br> <br> <br><br> <br><br><br><br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+
+</html>
