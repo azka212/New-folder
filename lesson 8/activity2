@@ -5,7 +5,8 @@
         #gradl{height: 400px;
             
             linear-gradient: (to bottom right,pink,yellow,red,); }
-    </style>
+    </style> 
+    
 
 </head>
 <body>
