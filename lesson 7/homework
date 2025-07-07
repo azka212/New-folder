@@ -1,32 +1,54 @@
 <!DOCTYPE HTML>
 <html>
-   <head>
-        <style>
-            /* this  will not be displayed on my page */
-            #para{color: black; font-size: 30px;}
-            .demo{ color: purple; font-size: 30px;}
-            *{ font-size: 30px; background-color: pink;}
-            h3,{color: teal;}
-            p { color: blue;}
-            <link rel= 'stylesheet' href='style.css'>
-        </style>
-       
-        
-    </head>
-    <body>
-        <p style='color:purple; font-size: 30px'>
-            i am  using inline css </p>
-            <P>i am using internal css</P>
-            
-            <hr>
-            <p>i am using element selector</p>
-            <hr>
-            <p id="para" > i am using id selector</p>
-            <hr>
-            <p class="demo">i am using class selector</p>
-            <hr>
-            <h3> i am using group selector</h3>
-            <hr>
 
-    </body>
+<head>
+    <style>
+        /* this  will not be displayed on my page */
+        #para {
+            color: black;
+            font-size: 30px;
+        }
+
+        .demo {
+            color: purple;
+            font-size: 30px;
+        }
+
+        * {
+            font-size: 30px;
+            background-color: pink;
+        }
+
+        h3,
+        {
+        color: teal;
+        }
+
+        p {
+            color: blue;
+        }
+
+        <link rel='stylesheet' href='style.css'>
+    </style>
+
+
+</head>
+
+<body>
+    <p style='color:purple; font-size: 30px'>
+        i am using inline css </p>
+    <P>i am using internal css</P>
+
+    <hr>
+    <p>i am using element selector</p>
+    <hr>
+    <p id="para"> i am using id selector</p>
+    <hr>
+    <p class="demo">i am using class selector</p>
+    <hr>
+    <h3> i am using group selector</h3>
+    <hr>
+
+</body>
+
 </html>
