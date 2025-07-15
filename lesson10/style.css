@@ -1,0 +1,41 @@
+* {
+    background-color: aqua;
+
+}
+
+input[type="text"] {
+    background-color: black;
+}
+
+ul>li {
+    color: pink;
+}
+
+h1+h2 {
+    color: blue;
+}
+
+li:hover {
+    color: purple;
+}
+
+li:nth-child(2) {
+    background-color: blueviolet;
+}
+
+p:not(:first-of-type) {
+    color: purple;
+}
+
+a::before {
+    content: "😁";
+}
+
+li::after {
+    content: "😊";
+}
+
+p::first-letter {
+    font-size: xx-large;
+    color: brown;
+}
