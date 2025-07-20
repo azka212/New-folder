@@ -10,7 +10,8 @@
 
         <nav>
             <ul>
-                <li ><a href="#section1">account</a></li>
+                <li><a href="#section1"> accounT</a>
+                </li>
                 <li><a href="#section2">deer</a></li>
             </ul>
         </nav>
